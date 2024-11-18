@@ -37,7 +37,6 @@ article{
     border: 3px solid #ffcf40; 
     text-align: center;
     max-width: 90vw;
-    grid-area: article;
 }
 
 nav a{
@@ -55,11 +54,6 @@ details:hover{
     text-decoration: underline;
 }
 
-details p:hover{
-    text-decoration: none;
-}
-
-
 footer{
     border: 3px solid #d3cfc5; 
     text-align: center;
@@ -68,9 +62,6 @@ footer{
 
 section{
     grid-area: section;
-}
-
-#home{
 }
 
 #about-me{
